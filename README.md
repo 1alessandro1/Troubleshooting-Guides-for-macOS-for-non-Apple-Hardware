@@ -1,79 +1,66 @@
 # Troubleshooting-Guides-for-macOS-for-non-Apple-Hardware
+
 This repository is a collection of sporadic guides across the network. Please note that many of this guides include other guides embedded as well. Please note that I do NOT own this guides, but I find them useful for educational purposes only.
 This list may be incomplete or defective, we are going to maintain this list as much as we can.
 
+Main Guide from Corpnewt (Intel Desktop)
+-https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide
 
-Main Guide from Corpnewt
-
-https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide
-
+AMD (Desktop Only)
+-https://vanilla.amd-osx.com
+-https://kb.hackintoshisfun.ml/clover/
 
 Harware Selection
 
-https://khronokernel-5.gitbook.io/anti-hackintosh-buyers-guide
-
-https://khronokernel-3.gitbook.io/catalina-gpu-buyers-guide
-
-https://khronokernel-4.gitbook.io/disable-unsupported-gpus 
+-https://khronokernel-5.gitbook.io/anti-hackintosh-buyers-guide
+-https://khronokernel-3.gitbook.io/catalina-gpu-buyers-guide
+-https://khronokernel-4.gitbook.io/disable-unsupported-gpus 
 (can be useful if you cannot remove your actual GPU, but a physical disconnection is much better)
 
+
 Wireless Hardware (PCIe, mini PCIe, M.2, Express Card, USB)
-https://khronokernel-7.gitbook.io/wireless-buyers-guide/
-  
-  (USB Specific)
-  https://github.com/chris1111/Wireless-USB-Adapter-Clover
+-https://khronokernel-7.gitbook.io/wireless-buyers-guide/
+-https://github.com/chris1111/Wireless-USB-Adapter-Clover
 
 (Old mojave GPU buyers guide - Deprecated)
-https://www.reddit.com/r/hackintosh/comments/b91vf5/mojave_gpu_buyers_guide
-https://github.com/khronokernel/Mojave-GPU-Buyers-Guide
-
+-https://www.reddit.com/r/hackintosh/comments/b91vf5/mojave_gpu_buyers_guide
+-https://github.com/khronokernel/Mojave-GPU-Buyers-Guide
 
 
 What's new in catalina
-https://github.com/khronokernel/What-s-new-in-macOS-Catalina/blob/master/README.md
-
+-https://github.com/khronokernel/What-s-new-in-macOS-Catalina/blob/master/README.md
 
 
 Downloading macOS Installer and security checksums
-https://www.reddit.com/r/hackintosh/comments/efjy5g/how_to_download_macos_from_apples_official/
+-https://www.reddit.com/r/hackintosh/comments/efjy5g/how_to_download_macos_from_apples_official/
 
-https://github.com/munki/macadmin-scripts (check the docs folder in the documentation)
+-https://github.com/munki/macadmin-scripts (check the docs folder in the documentation)
 
-https://github.com/notpeter/apple-installer-checksums/blob/master/readme.md#mac-osx-installers-sha1-checksums
-
+-https://github.com/notpeter/apple-installer-checksums/blob/master/readme.md#mac-osx-installers-sha1-checksums
 
 
 Boot Flags
 
-https://www.cnet.com/news/boot-argument-options-in-os-x/
-
-https://www.insanelymac.com/forum/topic/99891--/
-
+-https://www.cnet.com/news/boot-argument-options-in-os-x/
+-https://www.insanelymac.com/forum/topic/99891--/
 
 
-Making the bootlable USB from scratch
-https://internet-install.gitbook.io/macos-internet-install/
+Making the bootlable USB from scratch:
+-https://internet-install.gitbook.io/macos-internet-install/
+-https://www.insanelymac.com/forum/topic/329828-making-a-bootable-high-sierra-usb-installer-entirely-from-scratch-in-windows-or-linux-mint-without-access-to-mac-or-app-store-installerapp/
 
-https://www.insanelymac.com/forum/topic/329828-making-a-bootable-high-sierra-usb-installer-entirely-from-scratch-in-windows-or-linux-mint-without-access-to-mac-or-app-store-installerapp/
 
+OpenCore (official gihub repo: https://github.com/acidanthera/OpenCorePkg)
+-https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide (Black Version - identical)
+-https://khronokernel.github.io/Opencore-Vanilla-Desktop-Guide/
 
-OpenCore
-https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide
-(Black Version - identical)
-https://khronokernel.github.io/Opencore-Vanilla-Desktop-Guide/
-
-Guida MacOS86
-https://macos86.gitbook.io/guida-opencore/
-
-Repo Di GitHub
-
-https://github.com/acidanthera/OpenCorePkg
+Guida MacOS86 (In Italian)
+-https://macos86.gitbook.io/guida-opencore/
 
 Manual (configuration.pdf)
 
-https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf
-
-https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Differences/Differences.pdf
+-https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf
+-https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Differences/Differences.pdf
 
 Changelog between versions
 https://github.com/acidanthera/OpenCorePkg/blob/master/Changelog.md
@@ -131,7 +118,7 @@ Laptop DSDT patching for battery: https://www.tonymacx86.com/threads/guide-how-t
 
 Laptop Clover Hotpatch: [only after successful DSDT patching]: https://www.tonymacx86.com/threads/guide-using-clover-to-hotpatch-acpi.200137/
 
-Patch Luminosità
+Patch (Key Brightness)
 
 https://hackintoshitalia.altervista.org/patch-dsdt-tasti-luminosita
 
@@ -221,13 +208,6 @@ https://vmware.amd-osx.com/
 https://amd-vm.hackintosh-guides.ml
 
 https://amdosx.kellynet.nl/MojaveAMD2.vmdk
-
-AMD (Desktop Only)
-
-https://vanilla.amd-osx.com
-
-https://kb.hackintoshisfun.ml/clover/
-
 
 Multiboot Guides
 
