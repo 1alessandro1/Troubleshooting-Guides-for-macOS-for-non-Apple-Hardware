@@ -27,21 +27,25 @@ Wireless Hardware (PCIe, mini PCIe, M.2, Express Card, USB)
 -https://github.com/chris1111/Wireless-USB-Adapter-Clover
 
 (Old mojave GPU buyers guide - Deprecated)
+
 -https://www.reddit.com/r/hackintosh/comments/b91vf5/mojave_gpu_buyers_guide
 -https://github.com/khronokernel/Mojave-GPU-Buyers-Guide
 
 
 What's new in catalina
+
 -https://github.com/khronokernel/What-s-new-in-macOS-Catalina/blob/master/README.md
 
 
 Downloading macOS Installer and security checksums
+
 -https://www.reddit.com/r/hackintosh/comments/efjy5g/how_to_download_macos_from_apples_official/
 -https://github.com/munki/macadmin-scripts (check the docs folder in the documentation)
 -https://github.com/notpeter/apple-installer-checksums/blob/master/readme.md#mac-osx-installers-sha1-checksums
 
 
 Boot Flags
+
 -https://www.cnet.com/news/boot-argument-options-in-os-x/
 -https://www.insanelymac.com/forum/topic/99891--/
 
