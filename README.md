@@ -142,23 +142,38 @@ https://www.insanelymac.com/forum/topic/341703-guida-laptop-come-configurare-il-
 Framebuffer patches (needs to be checked again)
 
 -https://github.com/acidanthera/WhateverGreen/blob/master/Manual/FAQ.IntelHD.en.md
+
 -https://www.macos86.it/topic/849-weg-come-applicare-le-relative-patch/
+
 -https://olarila.com/forum/viewtopic.php?f=28&t=10171
+
 -https://olarila.com/forum/viewtopic.php?f=28
+
 -https://olarila.com/forum/viewtopic.php?t=9275
+
 -https://osxlatitude.com/forums/topic/10267-understanding-and-patching-framebuffer-haswell/
+
 -https://www.tonymacx86.com/threads/guide-intel-framebuffer-patching-using-whatevergreen.256490
+
 -https://www.tonymacx86.com/threads/guide-general-framebuffer-patching-guide-hdmi-black-screen-problem.269149/
+
 -https://www.insanelymac.com/forum/topic/334899-intel-framebuffer-patching-using-whatevergreen
 
 Tools 
 -https://github.com/corpnewt/ProperTree
+
 -https://github.com/ITzTravelInTime/TINU
+
 -https://github.com/acidanthera/MacInfoPkg/blob/master/macserial/FORMAT.md
+
 -https://github.com/vulgo/IORegistryExplorer
+
 -https://github.com/MuntashirAkon/DPCIManager/releases
+
 -https://github.com/Piker-Alpha/ssdtPRGen.sh/releases/tag/v17.0
+
 -http://headsoft.com.au/download/mac/Hackintool.zip
+
 -https://github.com/headkaze/Hackintool
 
 Map your USB ports so that you dont need the USB kext patch (and may probably fix sleep/wake for some)
@@ -169,27 +184,34 @@ Tool [second]: https://github.com/corpnewt/USBMap
 
 Tips 
 https://github.com/khronokernel/Differences-between-0x67-and-0x3E7/blob/master/README.md
+
 https://github.com/khronokernel/Opencore-Vanilla-Desktop-Guide/blob/master/extras/kalsr-fix.md
 
 Automatically compiled Kexts
 
 https://onedrive.live.com/?authkey=%21APjCyRpzoAKp4xs&id=FE4038DA929BFB23%21455036&cid=FE4038DA929BFB23
+
 https://1drv.ms/f/s!AiP7m5LaOED-m-J8-MLJGnOgAqnjGw
 
 
 Virtualization
 
 -https://github.com/foxlet/macOS-Simple-KVM
+
 -https://github.com/khronokernel/Hackintosh-Virtulization-FAQ/blob/master/README.md
+
 -https://www.aioboot.com/en/macos-vmware-workstation
 
 VMware AMD
 
 -https://vmware.amd-osx.com/
+
 -https://amd-vm.hackintosh-guides.ml
+
 -https://amdosx.kellynet.nl/MojaveAMD2.vmdk
 
 Multiboot Guides
 
 -https://www.macos86.it/topic/1897-guide-netgear/
+
 -https://hackintosh-multiboot.gitbook.io/hackintosh-multiboot/
