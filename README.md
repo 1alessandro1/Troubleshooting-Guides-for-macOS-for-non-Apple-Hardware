@@ -70,24 +70,16 @@ Guida MacOS86 (In Italian)
 Manual (configuration.pdf)
 
 -https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf
+
 -https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Differences/Differences.pdf
 
-
-Changelog between versions
-https://github.com/acidanthera/OpenCorePkg/blob/master/Changelog.md
+Changelog between versions: https://github.com/acidanthera/OpenCorePkg/blob/master/Changelog.md
 
 DSDT/SSDT (a bit outdated, 2014)
 
 https://www.insanelymac.com/forum/topic/298027-guide-aio-guides-for-hackintosh/?tab=comments#comment-2027250
 
 https://uefi.org/sites/default/files/resources/ACPI_6_3_May16.pdf
-
-
-Specific X299
-
-https://www.insanelymac.com/forum/topic/334343-imac-pro-x299-live-the-future-new-with-macos-1014-mojave-successful-buildsuccessful-guide/
-
-
 
 Power Management
 https://www.reddit.com/r/hackintosh/comments/bnimcj/power_management_101/
@@ -103,32 +95,54 @@ https://www.reddit.com/r/hackintosh/comments/4sil5p/audio_mechanic_old_patchfix_
 https://www.reddit.com/r/hackintosh/comments/4e23w6/guide_native_audio_with_clover_applealckex
 
 
-Intel Laptop
+Intel Laptop (Main Guide)
+
 https://fewtarius.gitbook.io/laptopguide
+
 
 Rehabman/Tonymac (usually outdated, try to avoid if possible)
 
 https://www.tonymacx86.com/threads/guide-booting-the-os-x-installer-on-laptops-with-clover.148093
 
-Laptop Rehabman FAQ: https://www.tonymacx86.com/threads/faq-read-first-laptop-frequent-questions.164990/
+Laptop Rehabman FAQ: 
 
-Laptop common issues: https://www.tonymacx86.com/threads/readme-common-problems-changes-fixes-on-mojave.255823/
+https://www.tonymacx86.com/threads/faq-read-first-laptop-frequent-questions.164990/
 
-Laptop backlight: https://www.tonymacx86.com/threads/guide-laptop-backlight-control-using-applebacklightinjector-kext.218222/
+Laptop common issues: 
 
-Laptop PM: https://www.tonymacx86.com/threads/guide-native-power-management-for-laptops.175801/.
+https://www.tonymacx86.com/threads/readme-common-problems-changes-fixes-on-mojave.255823/
 
-Laptop trackpad: https://www.tonymacx86.com/threads/wip-voodooi2c-i2c-trackpad-limited-support.204227/
+Laptop backlight:
 
-Laptop USB SSDT: https://www.tonymacx86.com/threads/guide-creating-a-custom-ssdt-for-usbinjectall-kext.211311/
+https://www.tonymacx86.com/threads/guide-laptop-backlight-control-using-applebacklightinjector-kext.218222/
 
-Laptop USB SSDT Power: https://www.tonymacx86.com/threads/guide-usb-power-property-injection-for-sierra-and-later.222266/
+Laptop PM: 
 
-Laptop dual GPU issue: https://www.tonymacx86.com/threads/guide-disabling-discrete-graphics-in-dual-gpu-laptops.163772/
+https://www.tonymacx86.com/threads/guide-native-power-management-for-laptops.175801/.
 
-Laptop DSDT/SSDT patching: https://www.tonymacx86.com/threads/guide-patching-laptop-dsdt-ssdts.152573/
+Laptop trackpad: 
 
-Laptop DSDT patching for battery: https://www.tonymacx86.com/threads/guide-how-to-patch-dsdt-for-working-battery-status.116102/
+https://www.tonymacx86.com/threads/wip-voodooi2c-i2c-trackpad-limited-support.204227/
+
+Laptop USB SSDT: 
+
+https://www.tonymacx86.com/threads/guide-creating-a-custom-ssdt-for-usbinjectall-kext.211311/
+
+Laptop USB SSDT Power: 
+
+https://www.tonymacx86.com/threads/guide-usb-power-property-injection-for-sierra-and-later.222266/
+
+Laptop dual GPU issue: 
+
+https://www.tonymacx86.com/threads/guide-disabling-discrete-graphics-in-dual-gpu-laptops.163772/
+
+Laptop DSDT/SSDT patching: 
+
+https://www.tonymacx86.com/threads/guide-patching-laptop-dsdt-ssdts.152573/
+
+Laptop DSDT patching for battery: 
+
+https://www.tonymacx86.com/threads/guide-how-to-patch-dsdt-for-working-battery-status.116102/
 
 Laptop Clover Hotpatch: [only after successful DSDT patching]: https://www.tonymacx86.com/threads/guide-using-clover-to-hotpatch-acpi.200137/
 
@@ -138,6 +152,10 @@ https://hackintoshitalia.altervista.org/patch-dsdt-tasti-luminosita
 
 https://www.insanelymac.com/forum/topic/341703-guida-laptop-come-configurare-il-controllo-della-luminosità-pnlf/?tab=comments#comment-2700467
 
+
+Specific for X299 boards, can be a bit tricky so I'll add this link too
+
+https://www.insanelymac.com/forum/topic/334343-imac-pro-x299-live-the-future-new-with-macos-1014-mojave-successful-buildsuccessful-guide/
 
 Framebuffer patches (needs to be checked again)
 
@@ -160,6 +178,7 @@ Framebuffer patches (needs to be checked again)
 -https://www.insanelymac.com/forum/topic/334899-intel-framebuffer-patching-using-whatevergreen
 
 Tools 
+
 -https://github.com/corpnewt/ProperTree
 
 -https://github.com/ITzTravelInTime/TINU
@@ -179,10 +198,13 @@ Tools
 Map your USB ports so that you dont need the USB kext patch (and may probably fix sleep/wake for some)
 
 Guide [first]: https://usb-map.gitbook.io/project/
+
 Tool [second]: https://github.com/corpnewt/USBMap
+
 (Italian): https://www.macos86.it/topic/9-mappatura-porte-usb/
 
 Tips 
+
 https://github.com/khronokernel/Differences-between-0x67-and-0x3E7/blob/master/README.md
 
 https://github.com/khronokernel/Opencore-Vanilla-Desktop-Guide/blob/master/extras/kalsr-fix.md
