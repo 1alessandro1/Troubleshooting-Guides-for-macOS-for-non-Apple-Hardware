@@ -94,7 +94,9 @@ Manual (configuration.pdf)
 
 Changelog between versions: https://github.com/acidanthera/OpenCorePkg/blob/master/Changelog.md
 
-DSDT/SSDT 
+Development Topic: https://www.insanelymac.com/forum/topic/338527-opencore-development/
+
+ACPI
 
 https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/extras/acpi
 
@@ -108,7 +110,7 @@ Official Documentation (1200+ pages, Good Luck): https://uefi.org/sites/default/
 Power Management
 https://www.reddit.com/r/hackintosh/comments/bnimcj/power_management_101/
 
-Audio Fixes
+Audio Fixes:
 
 https://osxlatitude.com/forums/topic/1946-complete-applehda-patching-guide
 
@@ -218,6 +220,8 @@ Tools
 -http://headsoft.com.au/download/mac/Hackintool.zip
 
 -https://github.com/headkaze/Hackintool
+
+-https://github.com/corpnewt/SSDTTime
 
 Map your USB ports so that you dont need the USB kext patch (and may probably fix sleep/wake for some)
 
