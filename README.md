@@ -62,7 +62,7 @@ Downloading macOS Installer and security checksums
 -https://github.com/notpeter/apple-installer-checksums/blob/master/readme.md#mac-osx-installers-sha1-checksums
 
 
-Boot Flags
+Boot Flags (Old guides, needs more research/checking)
 
 -https://www.cnet.com/news/boot-argument-options-in-os-x/
 
