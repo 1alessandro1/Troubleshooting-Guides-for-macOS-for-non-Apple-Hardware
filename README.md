@@ -4,9 +4,11 @@ This repository is a collection of sporadic guides across the network. Please no
 This list may be incomplete or defective, we are going to maintain this list as much as we can.
 
 Main Guide from Corpnewt (Intel Desktop)
+
 -https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide
 
 AMD (Desktop Only)
+
 -https://vanilla.amd-osx.com
 -https://kb.hackintoshisfun.ml/clover/
 
@@ -45,15 +47,18 @@ Boot Flags
 
 
 Making the bootlable USB from scratch:
+
 -https://internet-install.gitbook.io/macos-internet-install/
 -https://www.insanelymac.com/forum/topic/329828-making-a-bootable-high-sierra-usb-installer-entirely-from-scratch-in-windows-or-linux-mint-without-access-to-mac-or-app-store-installerapp/
 
 
 OpenCore (official gihub repo: https://github.com/acidanthera/OpenCorePkg)
+
 -https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide (Black Version - identical)
 -https://khronokernel.github.io/Opencore-Vanilla-Desktop-Guide/
 
 Guida MacOS86 (In Italian)
+
 -https://macos86.gitbook.io/guida-opencore/
 
 Manual (configuration.pdf)
