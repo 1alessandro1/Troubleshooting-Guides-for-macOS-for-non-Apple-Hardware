@@ -3,19 +3,29 @@
 This repository is a collection of sporadic guides across the network. Please note that many of this guides include other guides embedded as well. Please note that I do NOT own this guides, but I find them useful for educational purposes only.
 This list may be incomplete or defective, we are going to maintain this list as much as we can.
 
-Main Guide from Corpnewt (Intel Desktop)
+Intel Desktop
+
+Clover - Main Guide from Corpnewt (official gihub repo: https://github.com/cloverhackycolor/CloverBootloader)
 
 -https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide
+
+OpenCore - Main Guide by Khronokernel (official gihub repo: https://github.com/acidanthera/OpenCorePkg)
+
+-https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide 
+
 
 AMD (Desktop Only)
 
 -https://vanilla.amd-osx.com
+
 -https://kb.hackintoshisfun.ml/clover/
 
 Harware Selection:
 
 -https://khronokernel-5.gitbook.io/anti-hackintosh-buyers-guide
+
 -https://khronokernel-3.gitbook.io/catalina-gpu-buyers-guide
+
 -https://khronokernel-4.gitbook.io/disable-unsupported-gpus 
 
 (can be useful if you cannot remove your actual GPU, but a physical disconnection is much better)
@@ -24,11 +34,13 @@ Harware Selection:
 Wireless Hardware (PCIe, mini PCIe, M.2, Express Card, USB)
 
 -https://khronokernel-7.gitbook.io/wireless-buyers-guide/
+
 -https://github.com/chris1111/Wireless-USB-Adapter-Clover
 
 (Old mojave GPU buyers guide - Deprecated)
 
 -https://www.reddit.com/r/hackintosh/comments/b91vf5/mojave_gpu_buyers_guide
+
 -https://github.com/khronokernel/Mojave-GPU-Buyers-Guide
 
 Reddit topics
@@ -44,13 +56,16 @@ What's new in catalina
 Downloading macOS Installer and security checksums
 
 -https://www.reddit.com/r/hackintosh/comments/efjy5g/how_to_download_macos_from_apples_official/
+
 -https://github.com/munki/macadmin-scripts (check the docs folder in the documentation)
+
 -https://github.com/notpeter/apple-installer-checksums/blob/master/readme.md#mac-osx-installers-sha1-checksums
 
 
 Boot Flags
 
 -https://www.cnet.com/news/boot-argument-options-in-os-x/
+
 -https://www.insanelymac.com/forum/topic/99891--/
 
 
@@ -63,9 +78,9 @@ Making the bootlable USB from scratch:
 
 OpenCore (official gihub repo: https://github.com/acidanthera/OpenCorePkg)
 
--https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide (Black Version - identical)
+-https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide 
 
--https://khronokernel.github.io/Opencore-Vanilla-Desktop-Guide/
+-https://khronokernel.github.io/Opencore-Vanilla-Desktop-Guide/ (Black Version - identical)
 
 Guida MacOS86 (In Italian)
 
