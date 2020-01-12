@@ -75,11 +75,16 @@ Manual (configuration.pdf)
 
 Changelog between versions: https://github.com/acidanthera/OpenCorePkg/blob/master/Changelog.md
 
-DSDT/SSDT (a bit outdated, 2014)
+DSDT/SSDT 
+
+https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/extras/acpi
+
+(a bit outdated, 2014)
 
 https://www.insanelymac.com/forum/topic/298027-guide-aio-guides-for-hackintosh/?tab=comments#comment-2027250
 
-https://uefi.org/sites/default/files/resources/ACPI_6_3_May16.pdf
+
+Official Documentation (1200+ pages, Good Luck): https://uefi.org/sites/default/files/resources/ACPI_6_3_May16.pdf
 
 Power Management
 https://www.reddit.com/r/hackintosh/comments/bnimcj/power_management_101/
