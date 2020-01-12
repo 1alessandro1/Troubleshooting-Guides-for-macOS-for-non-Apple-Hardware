@@ -1,5 +1,6 @@
 # Troubleshooting-Guides-for-macOS-for-non-Apple-Hardware
-This repository is a collection of sporadic guides across the network. Please note that many of this guides include other guides embedded as well.
+This repository is a collection of sporadic guides across the network. Please note that many of this guides include other guides embedded as well. Please note that I do NOT own this guides, but I find them useful for educational purposes only.
+This list may be incomplete or defective, we are going to maintain this list as much as we can.
 
 
 Main Guide from Corpnewt
@@ -231,3 +232,5 @@ https://kb.hackintoshisfun.ml/clover/
 Multiboot Guides
 
 https://www.macos86.it/topic/1897-guide-netgear/
+
+https://hackintosh-multiboot.gitbook.io/hackintosh-multiboot/
