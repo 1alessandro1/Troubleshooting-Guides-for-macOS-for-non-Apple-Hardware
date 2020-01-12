@@ -53,12 +53,14 @@ Boot Flags
 Making the bootlable USB from scratch:
 
 -https://internet-install.gitbook.io/macos-internet-install/
+
 -https://www.insanelymac.com/forum/topic/329828-making-a-bootable-high-sierra-usb-installer-entirely-from-scratch-in-windows-or-linux-mint-without-access-to-mac-or-app-store-installerapp/
 
 
 OpenCore (official gihub repo: https://github.com/acidanthera/OpenCorePkg)
 
 -https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide (Black Version - identical)
+
 -https://khronokernel.github.io/Opencore-Vanilla-Desktop-Guide/
 
 Guida MacOS86 (In Italian)
@@ -70,11 +72,15 @@ Manual (configuration.pdf)
 -https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf
 -https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Differences/Differences.pdf
 
+
 Changelog between versions
 https://github.com/acidanthera/OpenCorePkg/blob/master/Changelog.md
 
 DSDT/SSDT (a bit outdated, 2014)
+
 https://www.insanelymac.com/forum/topic/298027-guide-aio-guides-for-hackintosh/?tab=comments#comment-2027250
+
+https://uefi.org/sites/default/files/resources/ACPI_6_3_May16.pdf
 
 
 Specific X299
