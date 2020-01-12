@@ -31,6 +31,10 @@ Wireless Hardware (PCIe, mini PCIe, M.2, Express Card, USB)
 -https://www.reddit.com/r/hackintosh/comments/b91vf5/mojave_gpu_buyers_guide
 -https://github.com/khronokernel/Mojave-GPU-Buyers-Guide
 
+Reddit topics
+
+https://www.reddit.com/r/hackintosh/wiki/faq#wiki_guides
+
 
 What's new in catalina
 
