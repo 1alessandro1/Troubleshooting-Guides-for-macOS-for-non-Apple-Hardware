@@ -20,6 +20,10 @@ AMD (Desktop Only)
 
 -https://kb.hackintoshisfun.ml/clover/
 
+-https://github.com/XLNCs/ryzenusbfix/blob/master/ManualGuide.md
+
+-https://github.com/AlGreyy/AMD_Ryzen-audio_CloverALC
+
 Harware Selection:
 
 -https://khronokernel-5.gitbook.io/anti-hackintosh-buyers-guide
@@ -222,6 +226,8 @@ Tools
 -https://github.com/headkaze/Hackintool
 
 -https://github.com/corpnewt/SSDTTime
+
+-https://github.com/XLNCs/UsefullScripts
 
 Map your USB ports so that you dont need the USB kext patch (and may probably fix sleep/wake for some)
 
