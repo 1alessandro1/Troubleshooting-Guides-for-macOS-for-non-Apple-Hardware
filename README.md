@@ -21,7 +21,7 @@ This list may be incomplete or defective, we are going to maintain this list as 
 * [Changelog](https://github.com/acidanthera/OpenCorePkg/blob/master/Changelog.md)
 * [InsanelyMac - Development topic](https://www.insanelymac.com/forum/topic/338527-opencore-development)
 
-##Intel Deskies
+## Intel Deskies
 
 * [r/Hackintosh Vanilla Desktop Guide](https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide)
 * [OpenCore - Main Guide by Khronokernel](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/)
