@@ -117,7 +117,7 @@ This list may be incomplete or defective, we are going to maintain this list as 
 * [IT - InsanelyMac Brightness key](https://www.insanelymac.com/forum/topic/341703-guida-laptop-come-configurare-il-controllo-della-luminosità-pnlf/?tab=comments#comment-2700467)
 * [Specific for X299 boards](https://www.insanelymac.com/forum/topic/334343-imac-pro-x299-live-the-future-new-with-macos-1014-mojave-successful-buildsuccessful-guide/)
 
-## Framebuffer patches (needs to be checked again)
+## Framebuffer patches (please stick to Whatevergreen's manual made by acidanthera as much as possible)
 
 * [WhateverGreen FAQ Intel](https://github.com/acidanthera/WhateverGreen/blob/master/Manual/FAQ.IntelHD.en.md)
 * [IT - macOS86.it](https://www.macos86.it/topic/849-weg-come-applicare-le-relative-patch/)
