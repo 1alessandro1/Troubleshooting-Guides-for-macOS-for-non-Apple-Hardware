@@ -81,7 +81,7 @@ This list may be incomplete or defective, we are going to maintain this list as 
 
 * [ACPI from Khronokernel guide](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/extras/acpi)
 * [outdated 2014 - InsanelyMac Thread](https://www.insanelymac.com/forum/topic/298027-guide-aio-guides-for-hackintosh/?tab=comments#comment-2027250)
-[Official Documentation (1200+ pages, Good Luck)](https://uefi.org/sites/default/files/resources/ACPI_6_3_May16.pdf)
+* [Official Documentation (1200+ pages, Good Luck)](https://uefi.org/sites/default/files/resources/ACPI_6_3_May16.pdf)
 
 ## Fixes 
 
