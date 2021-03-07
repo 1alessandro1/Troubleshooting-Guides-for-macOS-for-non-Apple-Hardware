@@ -46,7 +46,7 @@ This list may be incomplete or defective, we are going to maintain this list as 
 * [Wireless USB Adapters](https://github.com/chris1111/Wireless-USB-Adapter-Clover)
 
 
-####*(Old mojave GPU buyers guide - Deprecated)*
+#### *(Old mojave GPU buyers guide - Deprecated)*
 
 * [Mojave GPU Buyers Guide from r/hackintosh](https://www.reddit.com/r/hackintosh/comments/b91vf5/mojave_gpu_buyers_guide)
 * [Mojave GPU Buyers Guide](https://github.com/khronokernel/Mojave-GPU-Buyers-Guide)
